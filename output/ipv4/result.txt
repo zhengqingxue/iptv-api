@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-13 06:26:48,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sxws
+2025-04-13 18:29:01,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sxws
 
 📺央视频道,#genre#
 
@@ -14,6 +14,28 @@
 大湾区卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=dwqws
 
 ☘️浙江频道,#genre#
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
+浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
+浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 
 ☘️北京频道,#genre#
 
@@ -23,7 +45,9 @@
 上海新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=shxwzh
 东方影视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dfys
 东方财经,http://124.248.69.76:26781/douyu/9548279
+东方财经,http://61.133.118.228:5001/douyu/9548279
 动漫秀场,http://124.248.69.76:26781/douyu/9548279
+动漫秀场,http://61.133.118.228:5001/douyu/9548279
 新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=shxwzh
 欢笑剧场,http://150.158.112.123/公众号~玉玉软件库/migu.php?id=hxjc
 法治天地,http://150.158.112.123/公众号~玉玉软件库/migu.php?id=fztd
@@ -42,6 +66,7 @@
 淮安新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=haxwzh
 苏州新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=szxwzh
 连云港新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=lygxwzh
+靖江新闻综合,rtmp://visit.jjbctv.com:1935/live/xwzhmb?zjiangsd
 
 ☘️辽宁频道,#genre#
 
@@ -75,6 +100,7 @@
 
 ☘️山东频道,#genre#
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
+东营综合,http://61.133.118.228:5001/yy/1354930954
 
 ☘️山西频道,#genre#
 
@@ -99,6 +125,7 @@
 CHC家庭影院,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcjtdy
 CHC动作电影,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcdzdy
 经典电影,http://124.248.69.76:26781/yy/1356363815
+经典电影,http://61.133.118.228:5001/yy/1356363815
 经典电影,http://fmbox.cc/公众号玉玉软件库/huya.php?id=11342427
 
 🎥咪咕直播,#genre#
@@ -109,11 +136,14 @@ CHC动作电影,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcdz
 
 🪁动画频道,#genre#
 动漫秀场,http://124.248.69.76:26781/douyu/9548279
+动漫秀场,http://61.133.118.228:5001/douyu/9548279
 优漫卡通,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=ymkt
 24H国漫热播,http://150.158.112.123/php/yy.php?id=1353937086
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 海绵宝宝,http://124.248.69.76:26781/huya/11352919
+经典动漫,http://61.133.118.228:5001/yy/24180320
 漫画解说,http://124.248.69.76:26781/douyu/5907076
+漫画解说,http://61.133.118.228:5001/yy/1382735568
 
 🎮游戏频道,#genre#
 游戏风云,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=yxfy
@@ -122,8 +152,10 @@ CHC动作电影,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcdz
 
 🏛经典剧场,#genre#
 笑傲江湖,http://124.248.69.76:26781/huya/23865142
+笑傲江湖,http://61.133.118.228:5001/yy/1355067965
 笑傲江湖,http://150.158.112.123/php/yy.php?id=1354930909
 笑傲江湖,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23865142
+天龙八部,http://61.133.118.228:5001/yy/1351814644
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
 天龙八部,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23903123
@@ -131,5 +163,9 @@ CHC动作电影,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcdz
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 三国演义,http://124.248.69.76:26781/huya/11602081
 三国演义,http://150.158.112.123/php/huya.php?id=11602081
+水浒传,http://61.133.118.228:5001/yy/1353873252
+新白娘子传奇,http://61.133.118.228:5001/yy/1354490667
+封神榜,http://61.133.118.228:5001/yy/1353426319
 封神榜,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23749096
+上海滩,http://61.133.118.228:5001/yy/1382745184
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
