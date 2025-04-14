@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-14 06:27:12,http://124.248.69.76:26781/douyu/9548279
+2025-04-14 18:32:16,http://61.133.118.228:5001/douyu/9548279
 
 📺央视频道,#genre#
 
@@ -16,6 +16,7 @@
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+东方财经,http://61.133.118.228:5001/douyu/9548279
 东方财经,http://124.248.69.76:26781/douyu/9548279
 动漫秀场,http://124.248.69.76:26781/douyu/9548279
 
@@ -55,6 +56,7 @@
 
 ☘️山东频道,#genre#
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
+东营综合,http://61.133.118.228:5001/yy/1354930954
 
 ☘️山西频道,#genre#
 
@@ -76,7 +78,9 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+经典电影,http://61.133.118.228:5001/yy/1356363815
 经典电影,http://124.248.69.76:26781/yy/1356363815
+经典电影,http://fmbox.cc/公众号玉玉软件库/huya.php?id=11342427
 
 🎥咪咕直播,#genre#
 
@@ -84,8 +88,9 @@
 
 🪁动画频道,#genre#
 动漫秀场,http://124.248.69.76:26781/douyu/9548279
-火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 海绵宝宝,http://124.248.69.76:26781/huya/11352919
+经典动漫,http://61.133.118.228:5001/yy/24180320
+漫画解说,http://61.133.118.228:5001/yy/1382735568
 漫画解说,http://124.248.69.76:26781/douyu/5907076
 
 🎮游戏频道,#genre#
@@ -93,9 +98,19 @@
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,http://61.133.118.228:5001/yy/1355067965
 笑傲江湖,http://124.248.69.76:26781/huya/23865142
+笑傲江湖,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23865142
+天龙八部,http://61.133.118.228:5001/yy/1351814644
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
+天龙八部,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23903123
+鹿鼎记,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23865080
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 三国演义,http://124.248.69.76:26781/huya/11602081
+水浒传,http://61.133.118.228:5001/yy/1353873252
+新白娘子传奇,http://61.133.118.228:5001/yy/1354490667
+封神榜,http://61.133.118.228:5001/yy/1353426319
+封神榜,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23749096
+上海滩,http://61.133.118.228:5001/yy/1382745184
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
