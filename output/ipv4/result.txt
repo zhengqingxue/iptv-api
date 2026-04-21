@@ -1,3 +1,12 @@
 🕘️更新时间,#genre#
-2026-04-21 06:55:21,url
+2026-04-21 19:44:55,http://123.149.112.221:8009/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
+📺央视频道,#genre#
+CCTV-3,http://123.149.112.221:8009/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://123.149.112.221:8009/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+
+📡卫视频道,#genre#
+
+🏀体育频道,#genre#
+
+🎵音乐频道,#genre#
